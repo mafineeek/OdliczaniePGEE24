@@ -44,6 +44,5 @@ function countdown(endDate, elementId) {
   }
 }
 
-// Użyj funkcji dla każdego meczu
 countdown("04/12/2024 18:00:00", "match1"); // Betard Sparta Wrocław – Enea Falubaz Zielona Góra
 countdown("04/12/2024 20:30:00", "match2"); // Fogo Unia Leszno – Tauron Włókniarz Częstochowa
